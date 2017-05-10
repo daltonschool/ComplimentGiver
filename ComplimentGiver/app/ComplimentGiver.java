@@ -21,6 +21,14 @@ public class ComplimentGiver {
 		compliments.add("well-read");
 		compliments.add(1, "studious"); // insert at 1 spot
 		compliments.add(0, "respectful"); // insert at 0 spot
+		
+		// Display each compliment.
+		System.out.println("All compliments: ");
+
+		for (int i = 0; i < compliments.size(); i++) {
+			System.out.println(compliments.get(i));
+		}
+		
 
 		// Display the first compliment
 		System.out.println("First compliment: " + compliments.get(0));
@@ -32,12 +40,6 @@ public class ComplimentGiver {
 		// Display number of compliments.
 		System.out.println("Size of compliments: " + compliments.size());
 
-		// Display each compliment.
-		System.out.print("All compliments: ");
-
-		for (int i = 0; i < compliments.size(); i++) {
-			System.out.print(compliments.get(i) + " ");
-		}
 
 		/*
 		 * TODO: START HERE BASE ASSIGNMENT. Do exercises 1-3 below.
