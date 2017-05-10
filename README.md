@@ -18,5 +18,5 @@ A project to learn about ArrayLists.
 This is a mini-assignment. It's worth half of a regular assignment (and should only take you half the time).
 
 <div style="height:250px;overflow: hidden">
-<img src="header.jpg" width="100%" style="position:relative;top:-200px">
+<img src="header.jpg" width="100%" style="position:relative;top:-300px">
 </div>
