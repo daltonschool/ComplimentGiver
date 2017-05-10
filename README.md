@@ -1,6 +1,6 @@
 
 <div style="height:250px;overflow: hidden">
-<img src="header.jpg" width="100%">
+<img src="header.jpg" width="100%" style="position:relative;top:-50px">
 </div>
 
 # Compliment Giver
