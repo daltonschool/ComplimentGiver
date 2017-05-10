@@ -1,4 +1,6 @@
 # Compliment Giver
+CS-2 Second semester mini-project
+
 ## Summary
 A project to learn about ArrayLists.
 
@@ -8,5 +10,5 @@ A project to learn about ArrayLists.
 3. Read the code and follow the instructions in the comments.
 
 ## Grading
-This is a mini-assignment. It's worth half of a regular assignment (and should only take you half the time!).
+This is a mini-assignment. It's worth half of a regular assignment (and should only take you half the time).
 
