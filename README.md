@@ -1,6 +1,6 @@
 
-<div style="height:250px;overflow: hidden">
-<img src="header.jpg" width="100%" style="position:relative;top:-50px">
+<div style="height:200px;overflow: hidden">
+<img src="header.jpg" width="100%" style="position:relative;top:-70px;padding:0px -20px">
 </div>
 
 # Compliment Giver
@@ -17,6 +17,6 @@ A project to learn about ArrayLists.
 ## Grading
 This is a mini-assignment. It's worth half of a regular assignment (and should only take you half the time).
 
-<div style="height:250px;overflow: hidden">
-<img src="header.jpg" width="100%" style="position:relative;top:-350px">
+<div style="height:200px;overflow: hidden">
+<img src="header.jpg" width="100%" style="position:relative;top:-370px;padding:0px -20px">
 </div>
