@@ -2,6 +2,7 @@
 <div style="height:200px;background-image: url('header.jpg')">
 </div>
 <hr>
+
 # Compliment Giver
 CS-2 mini-project
 
