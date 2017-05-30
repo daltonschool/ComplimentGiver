@@ -1,7 +1,7 @@
 
 <div style="height:200px;background-image: url('header.jpg')">
 </div>
-
+<hr>
 # Compliment Giver
 CS-2 mini-project
 
@@ -15,6 +15,6 @@ A project to learn about ArrayLists.
 
 ## Grading
 This is a mini-assignment. It's worth half of a regular assignment (and should only take you half the time).
-
+<hr>
 <div style="height:200px;background-image: url('header.jpg')">
 </div>
